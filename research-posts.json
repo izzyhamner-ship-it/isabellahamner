@@ -1,0 +1,26 @@
+[
+  {
+    "title": "How PPID Shapes Inflammation in the Mare Reproductive Tract",
+    "category": "Equine Reproductive Immunology",
+    "summary": "This project investigated whether the chronic inflammatory environment associated with pituitary pars intermedia dysfunction extends into the uterus and preovulatory follicle. Using endometrial tissue, follicular fluid, molecular assays, and histology, our team identified evidence of elevated inflammatory signaling in affected mares.",
+    "image": "assets/ppid-cover.webp",
+    "imageAlt": "Mare and research setting associated with the PPID reproductive inflammation project",
+    "tags": [
+      "PPID",
+      "Equine",
+      "Immunology",
+      "Reproduction"
+    ],
+    "link": "research-ppid.html",
+    "lab": "fedorka"
+  }
+{
+  "title": "Evaluating PEMF Therapy for Post-Breeding Uterine Inflammation",
+    "category": "Equine Reproductive Medicine",
+    "summary": "This project evaluated whether a single post-breeding pulsed electromagnetic field treatment could influence uterine fluid clearance and inflammatory signaling in mares susceptible to persistent breeding-induced endometritis.",
+    "image": "assets/pemf-cover.webp",
+    "imageAlt": "Equine reproductive research involving pulsed electromagnetic field therapy",
+    "tags": ["PEMF", "PBIE", "Equine", "Inflammation"],
+    "link": "research-pemf.html",
+    "lab": "fedorka"
+}

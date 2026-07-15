@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+<title id="title">Equine reproductive immunology research illustration</title>
+<desc id="desc">Abstract scientific illustration of a horse profile, molecular pathways, and tissue microscopy motifs.</desc>
+<rect width="1200" height="900" fill="#dce8df"/>
+<circle cx="925" cy="190" r="240" fill="#c8c372" opacity=".65"/>
+<circle cx="160" cy="760" r="260" fill="#1e4d2b" opacity=".12"/>
+<path d="M310 594c54-32 92-96 114-176 17-62 53-101 111-132 40-21 87-34 142-39-34 41-54 88-61 141 76-34 151-41 226-20-50 25-91 61-122 108 74 1 135 25 184 72-94-3-177 26-248 88-52 46-121 68-205 64-74-4-127-39-159-105 4 0 10 0 18-1z" fill="#1e4d2b"/>
+<path d="M523 293c-24-78-6-145 55-201 1 57 25 103 71 139" fill="none" stroke="#1e4d2b" stroke-width="26" stroke-linecap="round"/>
+<circle cx="685" cy="335" r="12" fill="#f7f5ef"/>
+<g fill="none" stroke="#ffffff" stroke-width="5" opacity=".82">
+<circle cx="930" cy="610" r="98"/><circle cx="930" cy="610" r="60"/><circle cx="930" cy="610" r="23"/>
+<path d="M930 489v-80M1033 551l69-40M1033 669l69 40M827 551l-69-40M827 669l-69 40M930 731v80"/>
+</g>
+<g fill="#ffffff" opacity=".9">
+<circle cx="930" cy="408" r="16"/><circle cx="1103" cy="510" r="16"/><circle cx="1103" cy="710" r="16"/><circle cx="758" cy="510" r="16"/><circle cx="758" cy="710" r="16"/><circle cx="930" cy="812" r="16"/>
+</g>
+<text x="80" y="105" font-family="Georgia,serif" font-size="48" fill="#1e4d2b">PPID + Reproductive Inflammation</text>
+<text x="82" y="154" font-family="Arial,sans-serif" font-size="22" fill="#46604d">FEDORKA LAB · COLORADO STATE UNIVERSITY</text>
+</svg>
